@@ -61,3 +61,8 @@ C:\Users\Leonardo\source\repos\CommanderAPI\Commander\obj\Debug\netcoreapp3.1\Co
 C:\Users\Leonardo\source\repos\CommanderAPI\Commander\obj\Debug\netcoreapp3.1\Commander.dll
 C:\Users\Leonardo\source\repos\CommanderAPI\Commander\obj\Debug\netcoreapp3.1\Commander.pdb
 C:\Users\Leonardo\source\repos\CommanderAPI\Commander\obj\Debug\netcoreapp3.1\Commander.genruntimeconfig.cache
+C:\Users\Leonardo\source\repos\CommanderAPI\Commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Leonardo\source\repos\CommanderAPI\Commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Leonardo\source\repos\CommanderAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Leonardo\source\repos\CommanderAPI\Commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Leonardo\source\repos\CommanderAPI\Commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
